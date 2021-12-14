@@ -7,7 +7,7 @@
 # https://github.com/Merubokkusu/Discord-S.C.U.M/blob/master/docs/using/Gateway_Actions.md#gatewayfetchmembers
 
 import discum
-bot = discum.Client(token='token')
+bot = discum.Client(token='OTIwMDY5MjA5OTY5NTUzNDM4.YbfCsg.T9jXqY9oJYY4tlumW4cJI40RtoM')
 
 def close_after_fetching(resp, guild_id):
     if bot.gateway.finishedMemberFetching(guild_id):
@@ -23,7 +23,7 @@ def get_members(guild_id, channel_id):
     bot.gateway.resetSession() #saves 10 seconds when gateway is run again
     return bot.gateway.session.guild(guild_id).members
 
-members = get_members('serverid', 'channelid')
+members = get_members('896877413554855936', '901357477927464960')
 memberslist = []
 
 for memberID in members:

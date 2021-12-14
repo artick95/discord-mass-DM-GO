@@ -1,6 +1,6 @@
 module github.com/V4NSH4J/discord-mass-dm-GO
 
-go 1.16
+go 1.14
 
 require (
 	github.com/andybalholm/brotli v1.0.4

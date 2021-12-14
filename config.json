@@ -3,7 +3,7 @@
     "rate_limit_delay": 800,
     "offset": 300,
     "skip_completed": true,
-    "proxy": "",
+    "proxy": "http://de9.proxidize.com:10515:GRoxzo0:idk4lpb",
     "remove_dead_tokens": true,
     "remove_completed_members": true,
     "stop_dead_tokens": true,
