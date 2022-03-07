@@ -1,3 +1,16 @@
+
+```
+ pip install discum
+ cd scraper
+ python scrape.py
+
+```
+
+
+
+
+
+
 ## Quick Information
 Download from [here](https://github.com/V4NSH4J/discord-mass-DM-GO/releases)
 

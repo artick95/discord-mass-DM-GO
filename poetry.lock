@@ -1,17 +1,8 @@
-[[package]]
-name = "go"
-version = "1.2.1"
-description = "Quick directory changing (super-cd)"
-category = "main"
-optional = false
-python-versions = "*"
+package = []
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "994cba35b0a31c34e85ec1709de92bbfdb7ab174286615de49a14241ee641abf"
+content-hash = "fafb334cb038533f851c23d0b63254223abf72ce4f02987e7064b0c95566699a"
 
 [metadata.files]
-go = [
-    {file = "go-1.2.1.zip", hash = "sha256:e1aa499882110a1b31c4f8187b3f13625a3456d4332eaaaa48a5a745be51f2fa"},
-]

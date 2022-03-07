@@ -1,9 +1,9 @@
 {
-    "individual_delay": 7,
+    "individual_delay": 50,
     "rate_limit_delay": 800,
     "offset": 300,
     "skip_completed": true,
-    "proxy": "http://de9.proxidize.com:10515:GRoxzo0:idk4lpb",
+    "proxy": "http://de9.proxidize.com:59059:AR3zppq:aik8MJq",
     "remove_dead_tokens": true,
     "remove_completed_members": true,
     "stop_dead_tokens": true,
